@@ -2,25 +2,25 @@
  const fs = require('fs')
 
  module.exports = {
- monayawal: 1000,
- limitawal: 15,
+ monayawal: 0,
+ limitawal: 0,
  info: {
-   owner: ["6283145832517@s.whatsapp.net","6285747912167@s.whatsapp.net"],
+   owner: ["6283145831517@s.whatsapp.net","6285747912167@s.whatsapp.net"],
    ownerName: "𝐴𝑘𝑒𝑚𝑖",
    botName: "Thunder-XM_Legacy",
-   igowner: "https://www.instagram.com/rifza.p.p",
+   igowner: "https://www.instagram.com/",
    version: "^4.0.1"
    },
  api: {
  ss: "f43beb"
    },
  rpg: {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
-   potionawal: 1
+   darahawal: 0,
+   besiawal: 0,
+   goldawal: 0,
+   emeraldawal: 0,
+   umpanawal: 0,
+   potionawal: 0
    },
  textpro: {
       blackpink: "https://textpro.me/create-blackpink-logo-style-online-1001.html",
